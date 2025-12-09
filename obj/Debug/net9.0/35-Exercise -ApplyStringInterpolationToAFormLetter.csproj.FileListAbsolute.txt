@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\bin\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\bin\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\bin\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\bin\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\bin\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\refint\35-Exercise -ApplyStringInterpolationToAFormLetter.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\ref\35-Exercise -ApplyStringInterpolationToAFormLetter.dll

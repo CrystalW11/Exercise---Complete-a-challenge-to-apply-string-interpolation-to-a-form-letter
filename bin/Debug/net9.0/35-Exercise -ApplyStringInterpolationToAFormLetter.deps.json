@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "35-Exercise -ApplyStringInterpolationToAFormLetter/1.0.0": {
+        "runtime": {
+          "35-Exercise -ApplyStringInterpolationToAFormLetter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "35-Exercise -ApplyStringInterpolationToAFormLetter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
