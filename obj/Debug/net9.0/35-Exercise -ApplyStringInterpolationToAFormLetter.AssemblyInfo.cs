@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("35-Exercise -ApplyStringInterpolationToAFormLetter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3bb7dd220494820c93f4dd2a82e5d2d312a1360")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a88a8663ea34024ef0e22807429157a62a3b36")]
 [assembly: System.Reflection.AssemblyProductAttribute("35-Exercise -ApplyStringInterpolationToAFormLetter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("35-Exercise -ApplyStringInterpolationToAFormLetter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
