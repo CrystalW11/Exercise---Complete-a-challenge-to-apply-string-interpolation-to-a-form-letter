@@ -12,3 +12,4 @@ D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationTo
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.pdb
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.genruntimeconfig.cache
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\ref\35-Exercise -ApplyStringInterpolationToAFormLetter.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\35-Exercise -ApplyStringInterpolationToAFormLetter\obj\Debug\net9.0\35-Exercise -ApplyStringInterpolationToAFormLetter.sourcelink.json
